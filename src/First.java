@@ -7,16 +7,19 @@ public class First {
         for(i=0;i< mass.length;i++){
             sumf = sumf + mass[i];
         }
+        System.out.println(sumf);
         i = 0;
         while (i < mass.length){
             sumw = sumw + mass[i];
+            i++;
         }
+        System.out.println(sumw);
         i=0;
         do{
             sumdw = sumdw + mass[i];
             i++;
         } while(i< mass.length);
-
+        System.out.println(sumdw);
     }
 
 
