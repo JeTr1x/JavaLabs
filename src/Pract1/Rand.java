@@ -1,3 +1,5 @@
+package Pract1;
+
 import java.util.Random;
 
 public class Rand {

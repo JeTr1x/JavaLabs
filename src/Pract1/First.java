@@ -1,3 +1,5 @@
+package Pract1;
+
 public class First {
     int sumf = 0;
     int sumw = 0;
